@@ -1,5 +1,9 @@
 [package]
 name = "watchdock"
+authors = ["G H4ld <g@h4ld.uk>"]
+repository = "https://github.com/H4ld-London/watchdock.git"
+description = "Trigger a build inside a build container (e.g. using cargo-watch), then optionally run another command outside the container when the inner build command succeeds."
+readme = "README.md"
 version = "0.1.0"
 edition = "2021"
 
